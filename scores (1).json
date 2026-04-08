@@ -1,0 +1,536 @@
+{
+  "2026-03-31": {
+    "total_stores": 736,
+    "stores": {
+      "KOL_103_WH_HL_01": {
+        "store_id": "KOL_103_WH_HL_01",
+        "city": "Kolkata",
+        "ppi_pts": 1.87,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 7.5,
+        "air": 498,
+        "city_rank": 55,
+        "city_total": 71
+      },
+      "PUN_114_WH_HL_01": {
+        "store_id": "PUN_114_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 4.09,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 16.36,
+        "air": 198,
+        "city_rank": 10,
+        "city_total": 39
+      },
+      "PUN_144_WH_HL_01": {
+        "store_id": "PUN_144_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 4.08,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 16.31,
+        "air": 201,
+        "city_rank": 12,
+        "city_total": 39
+      },
+      "PUN_140_WH_HL_01": {
+        "store_id": "PUN_140_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 3.35,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 13.38,
+        "air": 313,
+        "city_rank": 21,
+        "city_total": 39
+      }
+    }
+  },
+  "2026-04-01": {
+    "total_stores": 741,
+    "stores": {
+      "KOL_103_WH_HL_01": {
+        "store_id": "KOL_103_WH_HL_01",
+        "city": "Kolkata",
+        "ppi_pts": 4.01,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": NaN,
+        "losses_pts": null,
+        "total_score": 16.05,
+        "air": 506,
+        "city_rank": 50,
+        "city_total": 71
+      },
+      "PUN_114_WH_HL_01": {
+        "store_id": "PUN_114_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 3.81,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 35.24,
+        "air": 231,
+        "city_rank": 19,
+        "city_total": 39
+      },
+      "PUN_144_WH_HL_01": {
+        "store_id": "PUN_144_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 4.09,
+        "inf_pts": 0.0,
+        "bags_pts": 3.54,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 50.53,
+        "air": 60,
+        "city_rank": 3,
+        "city_total": 39
+      },
+      "PUN_140_WH_HL_01": {
+        "store_id": "PUN_140_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 3.47,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 33.89,
+        "air": 247,
+        "city_rank": 21,
+        "city_total": 39
+      }
+    }
+  },
+  "2026-04-02": {
+    "total_stores": 744,
+    "stores": {
+      "KOL_103_WH_HL_01": {
+        "store_id": "KOL_103_WH_HL_01",
+        "city": "Kolkata",
+        "ppi_pts": 3.51,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 14.04,
+        "air": 576,
+        "city_rank": 54,
+        "city_total": 71
+      },
+      "BEN_229_WH_HL_01": {
+        "store_id": "BEN_229_WH_HL_01",
+        "city": "Bangalore",
+        "ppi_pts": 1.26,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 25.03,
+        "air": 435,
+        "city_rank": 67,
+        "city_total": 115
+      },
+      "PUN_114_WH_HL_01": {
+        "store_id": "PUN_114_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 4.19,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 36.77,
+        "air": 250,
+        "city_rank": 19,
+        "city_total": 40
+      },
+      "PUN_144_WH_HL_01": {
+        "store_id": "PUN_144_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 4.09,
+        "inf_pts": 0.0,
+        "bags_pts": 2.96,
+        "putaway_pts": 4.88,
+        "losses_pts": null,
+        "total_score": 47.75,
+        "air": 108,
+        "city_rank": 7,
+        "city_total": 40
+      },
+      "PUN_140_WH_HL_01": {
+        "store_id": "PUN_140_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 3.39,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 33.57,
+        "air": 306,
+        "city_rank": 23,
+        "city_total": 40
+      }
+    }
+  },
+  "2026-04-03": {
+    "total_stores": 750,
+    "stores": {
+      "KOL_103_WH_HL_01": {
+        "store_id": "KOL_103_WH_HL_01",
+        "city": "Kolkata",
+        "ppi_pts": 4.27,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 4.69,
+        "losses_pts": null,
+        "total_score": 35.83,
+        "air": 255,
+        "city_rank": 30,
+        "city_total": 72
+      },
+      "BEN_229_WH_HL_01": {
+        "store_id": "BEN_229_WH_HL_01",
+        "city": "Bangalore",
+        "ppi_pts": 2.52,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 4.89,
+        "losses_pts": null,
+        "total_score": 29.64,
+        "air": 365,
+        "city_rank": 54,
+        "city_total": 116
+      },
+      "PUN_114_WH_HL_01": {
+        "store_id": "PUN_114_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 4.3,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 3.67,
+        "losses_pts": null,
+        "total_score": 31.87,
+        "air": 317,
+        "city_rank": 28,
+        "city_total": 40
+      },
+      "PUN_144_WH_HL_01": {
+        "store_id": "PUN_144_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 3.99,
+        "inf_pts": 0.0,
+        "bags_pts": 3.04,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 48.12,
+        "air": 91,
+        "city_rank": 11,
+        "city_total": 40
+      },
+      "PUN_140_WH_HL_01": {
+        "store_id": "PUN_140_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 3.82,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 35.3,
+        "air": 261,
+        "city_rank": 21,
+        "city_total": 40
+      }
+    }
+  },
+  "2026-04-04": {
+    "total_stores": 755,
+    "stores": {
+      "KOL_103_WH_HL_01": {
+        "store_id": "KOL_103_WH_HL_01",
+        "city": "Kolkata",
+        "ppi_pts": 4.0,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 16.02,
+        "air": 575,
+        "city_rank": 63,
+        "city_total": 72
+      },
+      "BEN_229_WH_HL_01": {
+        "store_id": "BEN_229_WH_HL_01",
+        "city": "Bangalore",
+        "ppi_pts": 3.38,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 4.9,
+        "losses_pts": null,
+        "total_score": 33.1,
+        "air": 312,
+        "city_rank": 52,
+        "city_total": 116
+      },
+      "PUN_114_WH_HL_01": {
+        "store_id": "PUN_114_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 4.18,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 3.77,
+        "losses_pts": null,
+        "total_score": 31.82,
+        "air": 328,
+        "city_rank": 22,
+        "city_total": 40
+      },
+      "PUN_144_WH_HL_01": {
+        "store_id": "PUN_144_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 4.15,
+        "inf_pts": 0.0,
+        "bags_pts": 3.55,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 30.79,
+        "air": 348,
+        "city_rank": 25,
+        "city_total": 40
+      },
+      "PUN_140_WH_HL_01": {
+        "store_id": "PUN_140_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 3.65,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 34.6,
+        "air": 283,
+        "city_rank": 20,
+        "city_total": 40
+      }
+    }
+  },
+  "2026-04-05": {
+    "total_stores": 763,
+    "stores": {
+      "KOL_103_WH_HL_01": {
+        "store_id": "KOL_103_WH_HL_01",
+        "city": "Kolkata",
+        "ppi_pts": 3.91,
+        "inf_pts": 1.14,
+        "bags_pts": 0.0,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 20.22,
+        "air": 510,
+        "city_rank": 60,
+        "city_total": 72
+      },
+      "BEN_229_WH_HL_01": {
+        "store_id": "BEN_229_WH_HL_01",
+        "city": "Bangalore",
+        "ppi_pts": 2.14,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 4.79,
+        "losses_pts": null,
+        "total_score": 27.73,
+        "air": 410,
+        "city_rank": 56,
+        "city_total": 119
+      },
+      "PUN_114_WH_HL_01": {
+        "store_id": "PUN_114_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 4.28,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 37.11,
+        "air": 251,
+        "city_rank": 18,
+        "city_total": 40
+      },
+      "PUN_144_WH_HL_01": {
+        "store_id": "PUN_144_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 3.89,
+        "inf_pts": 0.0,
+        "bags_pts": 2.13,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 44.09,
+        "air": 168,
+        "city_rank": 13,
+        "city_total": 40
+      },
+      "PUN_140_WH_HL_01": {
+        "store_id": "PUN_140_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 3.82,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 4.7,
+        "losses_pts": null,
+        "total_score": 34.08,
+        "air": 289,
+        "city_rank": 23,
+        "city_total": 40
+      }
+    }
+  },
+  "2026-04-06": {
+    "total_stores": 771,
+    "stores": {
+      "KOL_103_WH_HL_01": {
+        "store_id": "KOL_103_WH_HL_01",
+        "city": "Kolkata",
+        "ppi_pts": 0.0,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 0.0,
+        "air": 734,
+        "city_rank": 71,
+        "city_total": 72
+      },
+      "BEN_229_WH_HL_01": {
+        "store_id": "BEN_229_WH_HL_01",
+        "city": "Bangalore",
+        "ppi_pts": 3.73,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 34.9,
+        "air": 289,
+        "city_rank": 49,
+        "city_total": 122
+      },
+      "PUN_114_WH_HL_01": {
+        "store_id": "PUN_114_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 4.09,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 4.0,
+        "losses_pts": null,
+        "total_score": 32.36,
+        "air": 324,
+        "city_rank": 22,
+        "city_total": 41
+      },
+      "PUN_144_WH_HL_01": {
+        "store_id": "PUN_144_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 3.82,
+        "inf_pts": 0.0,
+        "bags_pts": 4.1,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 51.71,
+        "air": 77,
+        "city_rank": 3,
+        "city_total": 41
+      },
+      "PUN_140_WH_HL_01": {
+        "store_id": "PUN_140_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 3.72,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 5.0,
+        "losses_pts": null,
+        "total_score": 34.86,
+        "air": 290,
+        "city_rank": 21,
+        "city_total": 41
+      }
+    }
+  },
+  "2026-04-07": {
+    "total_stores": 799,
+    "stores": {
+      "KOL_103_WH_HL_01": {
+        "store_id": "KOL_103_WH_HL_01",
+        "city": "Kolkata",
+        "ppi_pts": 4.03,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 16.13,
+        "air": 424,
+        "city_rank": 54,
+        "city_total": 75
+      },
+      "BEN_229_WH_HL_01": {
+        "store_id": "BEN_229_WH_HL_01",
+        "city": "Bangalore",
+        "ppi_pts": 2.77,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 11.08,
+        "air": 542,
+        "city_rank": 86,
+        "city_total": 124
+      },
+      "PUN_114_WH_HL_01": {
+        "store_id": "PUN_114_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 4.06,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 16.25,
+        "air": 419,
+        "city_rank": 21,
+        "city_total": 42
+      },
+      "PUN_144_WH_HL_01": {
+        "store_id": "PUN_144_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 4.21,
+        "inf_pts": 0.0,
+        "bags_pts": 3.55,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 31.04,
+        "air": 142,
+        "city_rank": 6,
+        "city_total": 42
+      },
+      "PUN_140_WH_HL_01": {
+        "store_id": "PUN_140_WH_HL_01",
+        "city": "Pune",
+        "ppi_pts": 4.01,
+        "inf_pts": 0.0,
+        "bags_pts": 0.0,
+        "putaway_pts": 0.0,
+        "losses_pts": null,
+        "total_score": 16.03,
+        "air": 427,
+        "city_rank": 22,
+        "city_total": 42
+      }
+    }
+  }
+}
