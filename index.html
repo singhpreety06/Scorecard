@@ -158,7 +158,7 @@ function getCategory(s,max){
   if(p>=80)return{label:'Exceeds Expectation',  tc:'#0C447C',bg:'#E6F1FB',dot:'#378ADD'};
   if(p>=65)return{label:'Meets Expectation',    tc:'#27500A',bg:'#EAF3DE',dot:'#639922'};
   if(p>=50)return{label:'Meets Some Expectation',tc:'#633806',bg:'#FAEEDA',dot:'#BA7517'};
-  return         {label:'Does Not Meet',        tc:'#791F1F',bg:'#FCEBEB',dot:'#E24B4A'};
+  return         {label:'Does Not Meet Expectation',        tc:'#791F1F',bg:'#FCEBEB',dot:'#E24B4A'};
 }
 function dotColor(p){if(p>=4)return'#1D9E75';if(p>=3)return'#378ADD';if(p>=2)return'#BA7517';return'#E24B4A';}
 function makeDots(pts){
