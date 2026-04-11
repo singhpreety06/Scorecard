@@ -498,11 +498,11 @@
         "ppi_pts": 3.94,
         "inf_pts": 0.55,
         "bags_pts": 5.0,
-        "putaway_pts": 0.0,
+        "putaway_pts": 5.0,
         "losses_pts": null,
-        "total_score": 37.96,
-        "air": 457,
-        "city_rank": 50,
+        "total_score": 57.96,
+        "air": 281,
+        "city_rank": 24,
         "city_total": 75
       },
       "BEN_229_WH_HL_01": {
@@ -511,11 +511,11 @@
         "ppi_pts": 2.87,
         "inf_pts": 5.0,
         "bags_pts": 5.0,
-        "putaway_pts": 0.0,
+        "putaway_pts": 4.47,
         "losses_pts": null,
-        "total_score": 51.5,
-        "air": 199,
-        "city_rank": 23,
+        "total_score": 69.39,
+        "air": 134,
+        "city_rank": 13,
         "city_total": 124
       },
       "PUN_114_WH_HL_01": {
@@ -524,11 +524,11 @@
         "ppi_pts": 4.06,
         "inf_pts": 5.0,
         "bags_pts": 5.0,
-        "putaway_pts": 0.0,
+        "putaway_pts": 5.0,
         "losses_pts": null,
-        "total_score": 56.25,
-        "air": 25,
-        "city_rank": 4,
+        "total_score": 76.25,
+        "air": 14,
+        "city_rank": 3,
         "city_total": 42
       },
       "PUN_144_WH_HL_01": {
@@ -537,10 +537,10 @@
         "ppi_pts": 4.34,
         "inf_pts": 5.0,
         "bags_pts": 5.0,
-        "putaway_pts": 0.0,
+        "putaway_pts": 5.0,
         "losses_pts": null,
-        "total_score": 57.38,
-        "air": 9,
+        "total_score": 77.38,
+        "air": 7,
         "city_rank": 1,
         "city_total": 42
       },
@@ -550,11 +550,11 @@
         "ppi_pts": 3.98,
         "inf_pts": 1.71,
         "bags_pts": 5.0,
-        "putaway_pts": 0.0,
+        "putaway_pts": 5.0,
         "losses_pts": null,
-        "total_score": 42.77,
-        "air": 381,
-        "city_rank": 22,
+        "total_score": 62.77,
+        "air": 226,
+        "city_rank": 18,
         "city_total": 42
       }
     }
